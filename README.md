@@ -21,7 +21,7 @@ The following files must be present in the repository root:
 ```text
 forge_v3.py
 forge_v7_avgmix.py
-swap_wm_group.py
+replace_groups.py
 submission.py
 README.md
 ```
